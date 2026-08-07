@@ -96,7 +96,6 @@
     "toReactive": true,
     "toRef": true,
     "toRefs": true,
-    "toValue": true,
     "triggerRef": true,
     "tryOnBeforeMount": true,
     "tryOnBeforeUnmount": true,
@@ -286,6 +285,7 @@
     "watchThrottled": true,
     "watchTriggerable": true,
     "watchWithFilter": true,
-    "whenever": true
+    "whenever": true,
+    "toValue": true
   }
 }
